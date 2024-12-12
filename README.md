@@ -12,9 +12,9 @@ Then select run multiple instances via the debug menu > run multiple instances (
 
 Then on the first game window drag it over so the second one is not overlapped (optional)
 
-Then select "Host" on the first window game start menu (it will load in the world on the 'host' client)
+Then select "Host server" on the first window game start menu (it will load in the world on the 'host' client)
 
-Then on subsequent clients select "Join" on the game start menu (it will load in the world for the 'join(ed)' clients and players should be able to see oneanother and share world iterations and voxel block changes)
+Then on subsequent clients select "Connect to server" on the game start menu (it will load in the world for the 'connect(ed) to server' clients and players should be able to see oneanother and share world iterations and voxel block changes)
 
 Enjoy.
 

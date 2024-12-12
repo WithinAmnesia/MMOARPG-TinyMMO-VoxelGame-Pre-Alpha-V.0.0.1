@@ -1,6 +1,6 @@
 This is a Pre-Alpha test / tinkering build. You will need this (I'm using mono / .NET / C# godot voxel custom engine for testing) https://github.com/Zylann/godot_voxel/actions/workflows/mono.yml + (most current build). e.g. https://github.com/Zylann/godot_voxel/actions/runs/12286474548 > (if you use linux select:
+"godot.linuxbsd.editor.x86_64.mono")
 
-"godot.linuxbsd.editor.x86_64.mono"
 (or the windows one if you use windows 
 "godot.windows.editor.x86_64.mono")
 

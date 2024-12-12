@@ -1,4 +1,4 @@
-This is a Pre-Alpha test / tinkering build. You will need this (I'm using mono / .NET / C# godot voxel custom engine for testing) https://github.com/Zylann/godot_voxel/actions/workflows/mono.yml + (most current build). e.g. https://github.com/Zylann/godot_voxel/actions/runs/12286474548 > (If you use linux select:
+This is a Pre-Alpha test / tinkering build. You will need this (I'm using mono / .NET / C# godot voxel custom engine for testing): https://github.com/Zylann/godot_voxel/actions/workflows/mono.yml + (most current build). e.g. https://github.com/Zylann/godot_voxel/actions/runs/12286474548 > (If you use linux select:
 "godot.linuxbsd.editor.x86_64.mono")
 
 (Or use the windows Godot Voxel 4.3_Stable mono custom Godot Voxels engine build if you use windows select: 
@@ -6,7 +6,7 @@ This is a Pre-Alpha test / tinkering build. You will need this (I'm using mono /
 
 Unzip the custom godot voxel engine and game .zip
 
-Then launch that custom 4.3_stable mono.NET / C# Godot Voxel engine and start the MMOARPG-TinyMMO-VoxelGame-Pre-Alpha-V.0.0.1 
+Then launch that custom 4.3_stable mono.NET / C# Godot Voxel engine and start the MMOARPG-TinyMMO-VoxelGame-Pre-Alpha-V.0.0.1
 
 Then select run multiple instances via the debug menu > run multiple instances (2+)
 
@@ -14,7 +14,7 @@ Then on the first game window drag it over so the second one is not overlapped (
 
 Then select "Host" on the first window game start menu (it will load in the world on the 'host' client)
 
-Then on subsequent clients select "Join" on the game start menu (it will load in the world for the 'join(ed)' clients and players should be able to see oneanother and share world iterations and voxel block changes.
+Then on subsequent clients select "Join" on the game start menu (it will load in the world for the 'join(ed)' clients and players should be able to see oneanother and share world iterations and voxel block changes)
 
 Enjoy.
 
